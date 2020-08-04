@@ -50,9 +50,10 @@
 /apps/*/node_modules
 
 
-# ignore themes except the example and the README
+# ignore themes except huemer-theme, example and the README
 /themes/*
 !/themes/example
+!/themes/huemer
 !/themes/README
 
 # just sane ignores
